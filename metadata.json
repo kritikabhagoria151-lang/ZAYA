@@ -1,0 +1,6 @@
+{
+  "name": "BaatCheet",
+  "description": "Mobile-first Hinglish voice and text AI chat assistant powered by Gemini with speech-to-text, read-aloud replies, and PWA installability.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
